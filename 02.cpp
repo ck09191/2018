@@ -40,8 +40,8 @@ ALU for floating point (실수)->(실수)
 변수 선언 
 	문제 나옴 
 변수의 의미와 구성요소
-***	주소(address, l-value;left value) : 주기억장치에서 변수의 위치(값에는 address가 없음) 
-	값(value, r-value;right value)
+***	주소(address; l-value;left value) : 주기억장치에서 변수의 위치(값에는 address가 없음) 
+	값(value; r-value;right value)
 		값->이진자료, 타입
 			타입: 표현방식과 메모리의 크기 
 	
@@ -84,12 +84,17 @@ ALU for floating point (실수)->(실수)
 함수의 호출
 	호출
 		호출하는 곳이 실행위치
-		입력값 입력(변수, 수식, 함수 호출>값으로 전환될 때 까지 호출 보류; 타입이 들어가면 구문 오류; call by value; 반드시 해야됨)
+		입력값 입력(변수, 수식, 함수 호출>값으로 전환될 때 까지 호출 보류; 타입이 들어가면 구문 오류; call by value 괄호안에 넣은 것이 값이 되어야만 호출된다; 반드시 해야됨)
 		반환값 받음 
 
 	함수는 호출할 때 시작하고 return에서 종료됨
 	종료후 호출문이 반환값으로 전환됨
-	 
+	호출 후 그 지점에서 멈춤
+	하나의 함수 호출 하고 끝나면 다음 함수 호출
+	
+	
+	
+ 
 		
  
 	

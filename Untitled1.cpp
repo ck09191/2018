@@ -1,9 +1,6 @@
-pretest fail : c+이하 
-1 structured 2문제
-2 c 4문제
 사전지식
 컴퓨터시스템입문 > structured programming 
-c언어 > pointer
+c언어 > pointer 
 
 pretest fail : c+이하 
 1 structured 2문제
@@ -12,6 +9,7 @@ pretest fail : c+이하
 재시험있음(시험치기 위해 특강 들어야됨 저녁 6시~9시 6~8주분량)
 평가 수시평가항목에 반영 
 재시험시 감점있음
+28일 시험 31일 특강:3일 4일 7일 8일 10일(예상) 
 
 배워야 할 것 
 1 c언어
@@ -39,3 +37,4 @@ pretest fail : c+이하
 02기초만있음pretest2
 강의자리 순서대로 각각 테스트있음 
 인터넷강의도 있음 
+http://plms.pusan.ac.kr/mod/ubfile/view.php?id=227625
